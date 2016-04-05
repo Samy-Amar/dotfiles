@@ -15,7 +15,9 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
+		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
+		"ColorPicker",
 		"DocBlockr",
 		"Emmet",
 		"Git",
@@ -25,6 +27,7 @@
 		"MatlabFilenameAutoComplete",
 		"Package Control",
 		"Ruby on Rails snippets",
-		"SCSS"
+		"SCSS",
+		"Theme - Piatto"
 	]
 }

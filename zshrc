@@ -3,7 +3,7 @@ ZSH=$HOME/.oh-my-zsh
 
 # Set name of the theme to load.
 # Look at https://github.com/robbyrussell/oh-my-zsh/wiki/themes for alternatives
-ZSH_THEME="robbyrussell"
+ZSH_THEME=agnoster
 RPS1='[$(ruby_prompt_info)]$EPS1'  # Add ruby version on prompt (float right)
 
 # Uncomment following line if you want red dots to be displayed while waiting for completion
@@ -32,4 +32,5 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 
 # Bundle editor
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"

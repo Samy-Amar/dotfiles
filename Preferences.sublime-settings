@@ -1,4 +1,6 @@
 {
+	"centurion_folder_icons": true,
+	"color_scheme": "Packages/1337 Color Scheme/1337.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -12,8 +14,15 @@
 		".sass-cache",
 		"build"
 	],
+	"font_face": "Input Mono",
+	"font_options":
+	[
+		"no_bold"
+	],
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
+	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
 		"AdvancedNewFile",
@@ -21,7 +30,6 @@
 		"ApplySyntax",
 		"BracketHighlighter",
 		"DocBlockr",
-		"Emmet",
 		"Git",
 		"GitGutter",
 		"JSX",
@@ -35,6 +43,7 @@
 		80
 	],
 	"tab_size": 2,
+	"theme": "Cyanide.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

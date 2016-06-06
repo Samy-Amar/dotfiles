@@ -27,7 +27,16 @@
 		"MatlabFilenameAutoComplete",
 		"Package Control",
 		"Ruby on Rails snippets",
+		"Sass",
 		"SCSS",
+		"Sublime-AdvancedNewFile",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
 		"Theme - Piatto"
+	],
+	"repositories":
+	[
+		"https://github.com/skuroda/Sublime-AdvancedNewFile.git"
 	]
 }

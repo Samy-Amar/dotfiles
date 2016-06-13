@@ -7,4 +7,4 @@ alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/download
 alias serve='ruby -run -e httpd . -p 8000'  # Or python -m SimpleHTTPServer :)
 
 # Other Aliases
-alias skello="cd ~/code/skello"
+alias sk="cd ~/code/skello"

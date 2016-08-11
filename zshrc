@@ -34,3 +34,7 @@ export LC_ALL=en_US.UTF-8
 # Bundle editor
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
+
+# M-cli
+export PATH=$PATH:/usr/local/m-cli
+

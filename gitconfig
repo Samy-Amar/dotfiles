@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = samy.amar.paris@gmail.com
-	name = samy amar
+	name = Samy Amar
 [credential]
 	helper = osxkeychain
 [filter "lfs"]

@@ -3,7 +3,7 @@
 	"channels":
 	[
 		"https://packagecontrol.io/channel_v3.json",
-		"https://web.archive.org/web/20160103232808/https://packagecontrol.io/channel_v3.json",
+		"https://web.archive.org/web/20160103232808/https://pckagecontrol.io/channel_v3.json",
 		"https://gist.githubusercontent.com/nick1m/660ed046a096dae0b0ab/raw/e6e9e23a0bb48b44537f61025fbc359f8d586eb4/channel_v3.json"
 	],
 	"in_process_packages":
@@ -11,7 +11,6 @@
 	],
 	"installed_packages":
 	[
-		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
@@ -31,10 +30,6 @@
 		"Sass",
 		"SCSS",
 		"Sublime-AdvancedNewFile",
-		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby",
-		"Theme - Piatto"
 	],
 	"repositories":
 	[

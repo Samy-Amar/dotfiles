@@ -14,7 +14,7 @@
 		".sass-cache",
 		"build"
 	],
-	"font_face": "Input Mono",
+	"font_face": "DejaVu Sans Mono",
 	"font_options":
 	[
 		"no_bold"
@@ -43,7 +43,11 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Cyanide.sublime-theme",
+	"theme":
+	{
+		"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+		"theme": "ayu-mirage.sublime-theme"
+	},
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

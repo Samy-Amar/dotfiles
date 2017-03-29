@@ -6,7 +6,10 @@ alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/download
 # Quickly serve the current directory as HTTP
 alias serve='ruby -run -e httpd . -p 8000'  # Or python -m SimpleHTTPServer :)
 alias lh="open http://localhost:3000"
+alias s="rails server"
 
 # Shortcut to folders
-alias sk="cd ~/code/skello"
-alias me="cd ~/code/personal-website"
+alias sk="cd ~/code/skello/skello"
+
+# Others
+alias wip="SKIP=ALL git commit -m 'wip'"

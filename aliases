@@ -13,3 +13,4 @@ alias sk="cd ~/code/skello/skello"
 
 # Others
 alias wip="SKIP=ALL git commit -m 'wip'"
+alias py="source activate skello_python"

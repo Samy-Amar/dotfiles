@@ -12,6 +12,9 @@ alias sb="BULLET=true rails server"
 # Shortcut to folders
 alias sk="cd ~/code/skello/skello"
 
+# Opening shit in atom like it's stt
+alias att="atom ."
+
 # Others
 alias wip="SKIP=ALL git commit -m 'wip'"
 alias py="source activate skello_python"

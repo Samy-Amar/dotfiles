@@ -17,3 +17,5 @@ alias vc="code-insiders ."
 # Others
 alias wip="SKIP=ALL git commit -m 'wip'"
 alias py="source activate skello_python"
+
+alias ngrok="/Users/samyamar/Downloads/ngrok http 5000"

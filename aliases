@@ -12,7 +12,7 @@ alias sk="cd ~/code/skello/skello"
 # Opening shit in atom like it's stt
 alias att="atom ."
 # Opening shit in VC insiders like it's stt
-alias vc="code-insiders ."
+alias vc="code ."
 
 # Others
 alias wip="SKIP=ALL git commit -m 'wip'"

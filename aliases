@@ -18,4 +18,4 @@ alias vc="code ."
 alias wip="SKIP=ALL git commit -m 'wip'"
 alias py="source activate skello_python"
 
-alias ngrok="/Downloads/ngrok http 3000"
+alias ngrok="/Users/skello-9/Downloads/ngrok http 3000"

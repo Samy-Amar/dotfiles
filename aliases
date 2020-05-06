@@ -4,7 +4,7 @@ alias ips="ifconfig -a | perl -nle'/(\d+\.\d+\.\d+\.\d+)/ && print $1'"
 alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/downloads/test10.zip"
 
 # Quickly serve the current directory as HTTP
-alias s="foreman start -f Procfile.dev"
+alias s="bin/rails s"
 
 # Shortcut to folders
 alias sk="cd ~/code/skello/skello"
@@ -18,4 +18,4 @@ alias vc="code ."
 alias wip="SKIP=ALL git commit -m 'wip'"
 alias py="source activate skello_python"
 
-alias ngrok="/Users/samyamar/Downloads/ngrok http 5000"
+alias ngrok="/Downloads/ngrok http 3000"

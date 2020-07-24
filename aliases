@@ -5,6 +5,7 @@ alias speedtest="wget -O /dev/null http://speedtest.wdc01.softlayer.com/download
 
 # Quickly serve the current directory as HTTP
 alias s="bin/rails s"
+alias b="bin/webpack-dev-server"
 
 # Shortcut to folders
 alias sk="cd ~/code/skello/skello"

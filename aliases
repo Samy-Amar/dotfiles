@@ -9,6 +9,7 @@ alias b="bin/webpack-dev-server"
 
 # Shortcut to folders
 alias sk="cd ~/code/skello/skello"
+alias back="cd ~/code/skello/backoffice"
 
 # Opening shit in atom like it's stt
 alias att="atom ."
